@@ -9,12 +9,12 @@ To get started with these games, follow these steps:
 1. **Clone the Repository**
 
    
-   git clone https://github.com/yourusername/cpp-games.git
+   git clone https://github.com/Hannanofx/games-cpp.git
 
 2.**Navigate to the Directory**
 
 
-cd cpp-games
+cd games-cpp
 
 3. **Compile the Games**
 
